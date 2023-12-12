@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/021/620/540/non_2x/seamless-pattern-brown-wood-texture-background-of-distressed-oak-grain-repeat-light-brown-natural-wooden-texture-wallpaper-seamless-flooring-or-table-top-endless-wall-fence-wooden-striped-vector.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    color: rgb(58, 27, 12);
+}
+img{
+    border: 2px solid black;
+    width: 90%;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ol{
+    background-color: rgba(0, 0, 0, 0.289);
+}
+.common{
+    position: aboslute;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: opx;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: rgba(165, 110, 42, 0.342)
+}
+
+.mainbody{
+    top: 400px
+}
+.header{
+    top: 0px;
+
+}
